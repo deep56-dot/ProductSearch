@@ -13,4 +13,5 @@ function binarySearch(){
     console.log("binary search")
 }
 console.log("fat forwrd merge")
-console.log("conflicting sentence")
+console.log("more functionality")
+console.log("jsahjskcd")
