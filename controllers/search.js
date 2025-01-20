@@ -14,3 +14,4 @@ function binarySearch(){
 }
 console.log("fat forwrd merge")
 console.log("more functionality")
+console.log("jsahjskcd")
