@@ -4,5 +4,11 @@ function efficiensearch(){
 console.log("namaste india")
 
 console.log("more enhancement")
-// efficient was accepted
-console.log("hello world")
+
+function hello(){
+    console.log("hello")
+}
+
+function binarySearch(){
+    console.log("binary search")
+}
