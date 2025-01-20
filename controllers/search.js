@@ -9,3 +9,6 @@ function hello(){
     console.log("hello")
 }
 
+function binarySearch(){
+    console.log("binary search")
+}
