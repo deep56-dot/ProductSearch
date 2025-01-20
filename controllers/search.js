@@ -4,3 +4,8 @@ function search(){
 console.log("namaste india")
 
 console.log("more enhancement")
+
+function hello(){
+    console.log("hello")
+}
+
